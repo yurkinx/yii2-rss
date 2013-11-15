@@ -10,7 +10,7 @@ namespace yii\feed;
 use Yii;
 use yii\base\Component;
 use yii\base\ErrorException;
-use Zend\Feed\Writer\Writer;
+use Zend\Feed\Writer\Feed;
 use Zend\Feed\Reader\Reader;
 
 /**
@@ -34,7 +34,7 @@ class FeedDriver extends Component
          */
         public function writer(){
             
-            return new Writer;
+            return new Feed;
         }
 }
 ?>
