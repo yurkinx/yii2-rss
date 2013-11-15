@@ -19,7 +19,7 @@ In config file
 ```code
 /config/web.php
 ```
-Add image component
+Add feed component
 ```code
 'components' => array(
         ...
