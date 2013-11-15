@@ -30,7 +30,7 @@ Add image component
 ```
 Simple usage
 -----
-Read Rss feed:
+__Read Rss feed:__
 ```php
 $feed=Yii::$app->feed->reader()->import('http://exapmple.com/feed.rss');
 ```
@@ -38,7 +38,7 @@ This will get RSS feed, parse it and return feed object.
 For more details you can read the official Zend-feed extention documentaion:
 http://framework.zend.com/manual/1.12/en/zend.feed.reader.html
 
-Write Rss feed:
+__Write Rss feed:__
 ```php
 $feed=Yii::$app->feed->writer();
 $feed->setTitle('Paddy\'s Blog');
@@ -76,6 +76,7 @@ $feed->addEntry($entry);
 * You can substitute "atom" with "rss" to generate an RSS 2.0 feed.
 */
 $out = $feed->export('atom');
+header('Content-Type: application/atom+xml');
 echo $out;
 ```
 Take a look at Zend-feed writer official documentaion for more advanced usage
