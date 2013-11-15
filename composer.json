@@ -17,7 +17,8 @@
 	"yiisoft/yii2": "dev-master",
         "yiisoft/yii2-composer": "dev-master",
         "zendframework/zend-feed": "2.3.*@dev",
-	"zendframework/zend-servicemanager": "2.3.*@dev"
+	"zendframework/zend-servicemanager": "2.3.*@dev",
+	"zendframework/zend-http": "2.3.*@dev"
     },
      "autoload": {
                 "psr-0": {
