@@ -40,6 +40,7 @@ For more details you can read the official Zend-feed extention documentaion:
 http://framework.zend.com/manual/2.2/en/modules/zend.feed.reader.html
 
 __Create Rss feed:__
+
 Create action Rss in controller
 ```php
 public function actionRss(){
