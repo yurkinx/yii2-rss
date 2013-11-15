@@ -30,6 +30,7 @@ Add image component
 ```
 Simple usage
 -----
+
 __Read Rss feed:__
 ```php
 $feed=Yii::$app->feed->reader()->import('http://exapmple.com/feed.rss');
