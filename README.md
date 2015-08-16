@@ -9,7 +9,7 @@ Installation
 {
 	"require": 
 	{
-  		"yurkinx/yii2-rss": "dev-master"
+  		"noname9/yii2-rss": "dev-master"
 	}
 }
 ```
