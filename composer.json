@@ -1,5 +1,5 @@
 {
-    "name": "noname9/yii2-rss",
+    "name": "noname9/yii2-atom-rss",
     "description": "Yii2 Framework extension to provide functionality for consuming RSS and Atom feeds using zend-feed library.",
     "keywords": ["yii2", "extension", "rss", "atom", "feed"],
     "homepage": "https://github.com/noname9/yii2-rss",
