@@ -14,9 +14,9 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-        "zendframework/zend-feed": "2.3.*v",
-	"zendframework/zend-servicemanager": "2.3.*",
-	"zendframework/zend-http": "2.3.*v"
+        "zendframework/zend-feed": "2.3.*@dev",
+	"zendframework/zend-servicemanager": "2.3.*@dev",
+	"zendframework/zend-http": "2.3.*@dev"
     },
      "autoload": {
                 "psr-0": {
