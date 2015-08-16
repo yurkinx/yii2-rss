@@ -11,11 +11,11 @@
             "email": "kileev@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
-	"yiisoft/yii2": "dev-master",
-        "yiisoft/yii2-composer": "dev-master",
+	"yiisoft/yii2": "*",
+        "yiisoft/yii2-composer": "*",
         "zendframework/zend-feed": "2.3.*@dev",
 	"zendframework/zend-servicemanager": "2.3.*@dev",
 	"zendframework/zend-http": "2.3.*@dev"
