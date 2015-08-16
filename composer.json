@@ -11,7 +11,7 @@
             "email": "ns.jeer@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
 	"yiisoft/yii2": "*",
