@@ -9,6 +9,10 @@
         {
             "name": "Sergey Kalita",
             "email": "ns.jeer@gmail.com"
+        },
+        {
+            "name": "Yuri Kileev",
+            "email": "kileev@gmail.com"
         }
     ],
     "minimum-stability": "dev",
