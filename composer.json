@@ -14,11 +14,9 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-	"yiisoft/yii2": "*",
-        "yiisoft/yii2-composer": "*",
-        "zendframework/zend-feed": "2.3.*@dev",
-	"zendframework/zend-servicemanager": "2.3.*@dev",
-	"zendframework/zend-http": "2.3.*@dev"
+        "zendframework/zend-feed": "2.3.*v",
+	"zendframework/zend-servicemanager": "2.3.*",
+	"zendframework/zend-http": "2.3.*v"
     },
      "autoload": {
                 "psr-0": {
