@@ -14,7 +14,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-	"yiisoft/yii2": "dev-master",
         "zendframework/zend-feed": "2.3.*@dev",
 	"zendframework/zend-servicemanager": "2.3.*@dev",
 	"zendframework/zend-http": "2.3.*@dev"
