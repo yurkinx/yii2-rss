@@ -1,15 +1,26 @@
 {
-    "name": "yurkinx/yii2-rss",
+    "name": "noname9/yii2-atom-rss",
     "description": "Yii2 Framework extension to provide functionality for consuming RSS and Atom feeds using zend-feed library.",
     "keywords": ["yii2", "extension", "rss", "atom", "feed"],
-    "homepage": "https://github.com/yurkinx/yii2-rss",
+    "homepage": "https://github.com/noname9/yii2-rss",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
         {
+            "name": "Sergey Kalita",
+            "email": "ns.jeer@gmail.com"
+        },
+        {
             "name": "Yuri Kileev",
             "email": "kileev@gmail.com"
         }
+    ],
+    "repositories":
+    [
+            {
+                "type": "vcs",
+                "url": "https://github.com/noname9/yii2-atom-rss"
+            }
     ],
     "minimum-stability": "dev",
     "require": {

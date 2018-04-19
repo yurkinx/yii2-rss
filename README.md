@@ -1,4 +1,4 @@
-yii2-rss
+yii2-atom-rss
 =========
 
 Yii2 Framework extension to provide functionality for consuming RSS and Atom feeds using zend-feed library.
@@ -9,7 +9,7 @@ Installation
 {
 	"require": 
 	{
-  		"yurkinx/yii2-rss": "dev-master"
+  		"noname9/yii2-atom-rss": "*"
 	}
 }
 ```
